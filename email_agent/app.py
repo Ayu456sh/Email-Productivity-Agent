@@ -8,7 +8,7 @@ import requests
 # Page Config
 st.set_page_config(page_title="Email Agent Pro", page_icon="⚡", layout="wide")
 
-API_URL = "http://localhost:8000"
+API_URL = "https://email-productivity-backend.onrender.com"
 
 # --- CSS INJECTION ---
 def local_css(file_name):
