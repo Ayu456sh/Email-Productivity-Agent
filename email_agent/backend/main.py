@@ -4,6 +4,7 @@ This module provides a FastAPI-based RESTful API for managing emails,
 generating drafts, and interacting with an AI-powered email assistant.
 """
 from fastapi import FastAPI, HTTPException, Body
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Optional, Dict, Any
 import json
@@ -21,6 +22,15 @@ import system_prompts
 email_service = EmailService()
 
 app = FastAPI(title="Email Agent Pro API", version="2.1.0")
+
+# Add CORS middleware to allow frontend to connect
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all methods
+    allow_headers=["*"],  # Allows all headers
+)
 
 # Initialize DB on startup
 @app.on_event("startup")
