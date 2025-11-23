@@ -1,0 +1,202 @@
+[
+  {
+    "id": "e1",
+    "sender": "newsletter@techdaily.com",
+    "subject": "Tech Daily: AI Revolution is Here",
+    "body": "Hi there! In today's edition, we explore how AI is changing the landscape of productivity. Don't miss our webinar on Friday at 3 PM EST.",
+    "timestamp": "2023-10-27T09:00:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": false
+  },
+  {
+    "id": "e2",
+    "sender": "boss@company.com",
+    "subject": "URGENT: Q4 Report Needed",
+    "body": "Hi, I need the Q4 financial report on my desk by tomorrow morning. Please prioritize this. Also, can you schedule a team sync for Monday?",
+    "timestamp": "2023-10-27T10:30:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": false
+  },
+  {
+    "id": "e3",
+    "sender": "mom@family.com",
+    "subject": "Dinner this weekend?",
+    "body": "Hey! Are you free for dinner this Saturday? Let me know.",
+    "timestamp": "2023-10-27T18:15:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": true
+  },
+  {
+    "id": "e4",
+    "sender": "support@saas-service.com",
+    "subject": "Your Invoice #12345",
+    "body": "Thank you for your business. Attached is your invoice for October. Amount due: $49.99.",
+    "timestamp": "2023-10-26T14:20:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": true
+  },
+  {
+    "id": "e5",
+    "sender": "recruiter@linkedin.com",
+    "subject": "New Job Opportunity: Senior Developer",
+    "body": "Hi, I came across your profile and was impressed by your experience. We have an opening for a Senior Developer role. Are you open to a chat?",
+    "timestamp": "2023-10-28T08:00:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": false
+  },
+  {
+    "id": "e6",
+    "sender": "project.manager@company.com",
+    "subject": "Project Alpha: Kickoff Meeting",
+    "body": "Team, let's schedule the kickoff meeting for Project Alpha. Please share your availability for next Tuesday. We need to finalize the roadmap.",
+    "timestamp": "2023-10-28T09:30:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": false
+  },
+  {
+    "id": "e7",
+    "sender": "spam@offers.com",
+    "subject": "CONGRATULATIONS! You won a gift card!",
+    "body": "Click here to claim your $1000 gift card now! Limited time offer.",
+    "timestamp": "2023-10-28T11:00:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": false
+  },
+  {
+    "id": "e8",
+    "sender": "hr@company.com",
+    "subject": "Open Enrollment for Benefits",
+    "body": "This is a reminder that open enrollment for health benefits ends this Friday. Please log in to the portal to make your selections.",
+    "timestamp": "2023-10-28T13:45:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": true
+  },
+  {
+    "id": "e9",
+    "sender": "client@bigcorp.com",
+    "subject": "Feedback on Design Mockups",
+    "body": "We've reviewed the latest designs. Overall they look good, but we have a few changes. Can you update the logo size and change the primary color to blue? Let's review on Wednesday.",
+    "timestamp": "2023-10-29T10:00:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": false
+  },
+  {
+    "id": "e10",
+    "sender": "security@company.com",
+    "subject": "Security Alert: Suspicious Login",
+    "body": "We detected a login attempt from a new device. If this wasn't you, please change your password immediately.",
+    "timestamp": "2023-10-29T11:15:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": false
+  },
+  {
+    "id": "e11",
+    "sender": "newsletter@marketing-guru.com",
+    "subject": "5 Tips to Boost Your SEO",
+    "body": "In this week's newsletter, we share 5 actionable tips to improve your website's ranking. Read more on our blog.",
+    "timestamp": "2023-10-29T14:30:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": true
+  },
+  {
+    "id": "e12",
+    "sender": "colleague@company.com",
+    "subject": "Lunch today?",
+    "body": "Heading out for tacos at 12:30. Want to join?",
+    "timestamp": "2023-10-30T11:45:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": false
+  },
+  {
+    "id": "e13",
+    "sender": "admin@jira.com",
+    "subject": "[JIRA] Issue #456 Updated",
+    "body": "User 'jdoe' updated issue #456: 'Fix login bug'. Status changed to 'In Progress'.",
+    "timestamp": "2023-10-30T15:20:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": true
+  },
+  {
+    "id": "e14",
+    "sender": "ceo@company.com",
+    "subject": "All Hands Meeting",
+    "body": "Please join us for the quarterly All Hands meeting this Thursday at 4 PM. Attendance is mandatory.",
+    "timestamp": "2023-10-31T09:00:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": false
+  },
+  {
+    "id": "e15",
+    "sender": "amazon@orders.com",
+    "subject": "Your package has shipped",
+    "body": "Your order #998877 has shipped and will arrive tomorrow. Track your package here.",
+    "timestamp": "2023-10-31T16:00:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": true
+  },
+  {
+    "id": "e16",
+    "sender": "devops@company.com",
+    "subject": "Server Maintenance Scheduled",
+    "body": "We will be performing routine maintenance on the production servers this Sunday from 2 AM to 4 AM. Expect downtime.",
+    "timestamp": "2023-11-01T10:00:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": true
+  },
+  {
+    "id": "e17",
+    "sender": "event@meetup.com",
+    "subject": "Reminder: Python User Group Tonight",
+    "body": "Don't forget the Python User Group meetup is happening tonight at 7 PM. See you there!",
+    "timestamp": "2023-11-01T12:00:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": false
+  },
+  {
+    "id": "e18",
+    "sender": "billing@utility.com",
+    "subject": "Electricity Bill Due",
+    "body": "Your electricity bill for October is ready. Total amount: $85.50. Due date: Nov 15th.",
+    "timestamp": "2023-11-02T08:30:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": false
+  },
+  {
+    "id": "e19",
+    "sender": "friend@gmail.com",
+    "subject": "Photos from the trip",
+    "body": "Here are the photos from our hiking trip. It was so much fun! Let's do it again soon.",
+    "timestamp": "2023-11-02T20:00:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": true
+  },
+  {
+    "id": "e20",
+    "sender": "unknown@invest.com",
+    "subject": "Investment Opportunity of a Lifetime",
+    "body": "Dear Sir/Madam, I have a business proposal that will yield 500% returns in one month. Reply for details.",
+    "timestamp": "2023-11-03T05:00:00Z",
+    "category": null,
+    "action_items": [],
+    "is_read": false
+  }
+]

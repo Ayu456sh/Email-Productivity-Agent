@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+google-generativeai
+python-dotenv
+pydantic
+requests
+streamlit-option-menu
