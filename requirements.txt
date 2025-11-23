@@ -6,3 +6,4 @@ python-dotenv
 pydantic
 requests
 streamlit-option-menu
+imap-tools
